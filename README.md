@@ -1,2 +1,2 @@
 # android-menu-drawable-sample
-This is a basic Native Application Android to implements drawable menu in Java.
+This is a sample to demonstrate how to implements drawable menu in native Java Android app.
